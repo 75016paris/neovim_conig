@@ -1,33 +1,52 @@
--- Configuration GitHub Copilot
--- Reset complet avec <leader>co
+-- after/plugin/copilot.lua
+-- after/plugin/copilot.lua (Raccourcis seulement - config dans packer.lua)
 
--- <leader>co + i → Déclencher suggestion
-vim.keymap.set('i', '<leader>coi', '<Plug>(copilot-suggest)', { desc = 'Trigger Copilot suggestion' })
+-- Vérifier si copilot.lua est chargé
+local has_copilot, copilot = pcall(require, "copilot")
+if not has_copilot then
+  print("Copilot.lua not loaded yet.")
+  return
+end
 
--- <leader>co + a → Accepter suggestion
-vim.keymap.set('i', '<leader>coa', 'copilot#Accept("\\<CR>")', { 
-    expr = true, 
-    replace_keycodes = false,
-    desc = 'Accept Copilot suggestion'
-})
+-- Raccourcis et fonctions utilitaires
+vim.keymap.set('i', '<leader>debug', function()
+  local suggestion = require('copilot.suggestion')
+  local config = require('copilot.config').get()
+  print("Suggestion enabled:", config.suggestion.enabled)
+  print("Auto trigger:", config.suggestion.auto_trigger)
+  print("Is visible:", suggestion.is_visible())
+  print("Filetype:", vim.bo.filetype)
+end, { desc = 'Debug Copilot' })
 
--- <leader>co + n → Suggestion suivante
-vim.keymap.set('i', '<leader>con', '<Plug>(copilot-next)', { desc = 'Next Copilot suggestion' })
+vim.keymap.set('i', '<C-u>', function()
+  require('copilot.suggestion').dismiss()
+  vim.defer_fn(function()
+    require('copilot.suggestion').next()
+  end, 100)
+end, { desc = 'Force Copilot suggestion' })
 
--- <leader>co + p → Suggestion précédente  
-vim.keymap.set('i', '<leader>cop', '<Plug>(copilot-previous)', { desc = 'Previous Copilot suggestion' })
+vim.keymap.set('i', '<leader>ca', function()
+  require('copilot.suggestion').accept()
+end, { desc = 'Accept Copilot suggestion' })
 
--- <leader>co + d → Rejeter/dismiss suggestion
-vim.keymap.set('i', '<leader>cod', '<Plug>(copilot-dismiss)', { desc = 'Dismiss Copilot suggestion' })
+-- Alternative Ctrl+Enter si Shift+Enter ne marche pas
+vim.keymap.set('i', '<C-CR>', function()
+  require('copilot.suggestion').accept()
+end, { desc = 'Accept Copilot suggestion (Ctrl+Enter)' })
 
--- <leader>co + c → Chat/Panel Copilot
-vim.keymap.set('n', '<leader>coc', '<cmd>Copilot panel<cr>', { desc = 'Copilot chat panel' })
+vim.keymap.set('i', '<leader>cn', function()
+  require('copilot.suggestion').next()
+end, { desc = 'Next Copilot suggestion' })
 
--- <leader>co + e → Enable Copilot
-vim.keymap.set('n', '<leader>coe', '<cmd>Copilot enable<cr>', { desc = 'Enable Copilot' })
+vim.keymap.set('i', '<leader>cp', function()
+  require('copilot.suggestion').prev()
+end, { desc = 'Previous Copilot suggestion' })
 
--- <leader>co + x → Disable Copilot  
-vim.keymap.set('n', '<leader>cox', '<cmd>Copilot disable<cr>', { desc = 'Disable Copilot' })
+-- Mode normal
+vim.keymap.set('n', '<leader>cs', '<cmd>Copilot status<cr>', { desc = 'Copilot status' })
+vim.keymap.set('n', '<leader>ce', '<cmd>Copilot enable<cr>', { desc = 'Enable Copilot' })
+vim.keymap.set('n', '<leader>cx', '<cmd>Copilot disable<cr>', { desc = 'Disable Copilot' })
 
--- <leader>co + s → Status Copilot
-vim.keymap.set('n', '<leader>cos', '<cmd>Copilot status<cr>', { desc = 'Copilot status' })
+vim.keymap.set('n', '<leader>cP', function()
+  require('copilot.panel').open()
+end, { desc = 'Copilot panel' })

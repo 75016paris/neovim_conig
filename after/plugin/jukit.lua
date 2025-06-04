@@ -118,3 +118,18 @@ vim.keymap.set('n', '<leader>rk', function()
   vim.cmd('call jukit#splits#output()')
   -- Pas de history automatique, vous l'ouvrez manuellement si besoin
 end, { desc = 'Restart kernel' })
+
+
+-- Détection automatique du socket Kitty actuel
+local function get_kitty_socket()
+    local handle = io.popen("ls -t /tmp/kitty_* 2>/dev/null | head -1")
+    local socket_path = handle:read("*a"):gsub("%s+", "")
+    handle:close()
+    return socket_path
+end
+
+-- Configuration du socket
+local kitty_socket = get_kitty_socket()
+if kitty_socket and kitty_socket ~= "" then
+    vim.g.jukit_kitty_socket = kitty_socket
+end
