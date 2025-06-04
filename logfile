@@ -1,0 +1,524 @@
+
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/ftplugin.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/ftplugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/indent.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/indent.vim
+could not source "/opt/homebrew/etc/xdg/nvim/sysinit.vim"
+could not source "/etc/xdg/nvim/sysinit.vim"
+could not source "$VIM/sysinit.vim"
+sourcing "/Users/pr/.config/nvim/init.lua"
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+not found in 'packpath': "pack/*/opt/packer.nvim"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+                                             hello PR, Welcom in you NeoVim environement
+finished sourcing /Users/pr/.config/nvim/init.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/filetype.lua"
+line 0: sourcing "nvim_exec2() called at /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/filetype.lua:0"
+not found in runtime path: "ftdetect/*.{vim,lua}"
+finished sourcing nvim_exec2() called at /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/filetype.lua:0
+continuing in /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/filetype.lua
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/filetype.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/syntax/syntax.vim"
+line 20: sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/syntax/synload.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/syntax/synload.vim
+continuing in /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/syntax/syntax.vim
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/syntax/syntax.vim
+sourcing "/Users/pr/.config/nvim/plugin/harpoon.lua"
+finished sourcing /Users/pr/.config/nvim/plugin/harpoon.lua
+sourcing "/Users/pr/.config/nvim/plugin/mason.lua"
+finished sourcing /Users/pr/.config/nvim/plugin/mason.lua
+sourcing "/Users/pr/.config/nvim/plugin/packer_compiled.lua"
+not found in 'packpath': "pack/*/opt/packer.nvim"
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/plugin/packer_compiled.lua:0"
+line 1: sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua"
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+continuing in nvim_exec2() called at /Users/pr/.config/nvim/plugin/packer_compiled.lua:0
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/plugin/packer_compiled.lua:0
+continuing in /Users/pr/.config/nvim/plugin/packer_compiled.lua
+finished sourcing /Users/pr/.config/nvim/plugin/packer_compiled.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/gzip.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/gzip.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/matchit.vim"
+not found in 'packpath': "pack/*/start/matchit"
+line 3: sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+continuing in /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/matchit.vim
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/matchit.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/matchparen.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/matchparen.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/netrwPlugin.vim"
+not found in 'packpath': "pack/*/start/netrw"
+line 7: sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/pack/dist/opt/netrw/plugin/netrwPlugin.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/pack/dist/opt/netrw/plugin/netrwPlugin.vim
+continuing in /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/netrwPlugin.vim
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/netrwPlugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/rplugin.vim"
+line 3: sourcing "/Users/pr/.local/share/nvim/rplugin.vim"
+finished sourcing /Users/pr/.local/share/nvim/rplugin.vim
+continuing in <SNR>26_LoadRemotePlugins
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/rplugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/shada.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/shada.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/spellfile.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/spellfile.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/tarPlugin.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/tarPlugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/tutor.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/tutor.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/zipPlugin.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/zipPlugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/editorconfig.lua"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/editorconfig.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/man.lua"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/man.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/osc52.lua"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/osc52.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/tohtml.lua"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/tohtml.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim/plugin/lsp-zero.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim/plugin/lsp-zero.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.vim"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.vim
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/nvim-cmp/plugin/cmp.lua"
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/nvim-cmp/plugin/cmp.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/nvim-cmp/plugin/cmp.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/nvim-cmp/plugin/cmp.lua
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/nvim-cmp/plugin/cmp.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/nvim-lspconfig/plugin/lspconfig.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/nvim-lspconfig/plugin/lspconfig.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/nvim-treesitter/plugin/nvim-treesitter.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/nvim-treesitter/plugin/nvim-treesitter.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/playground/plugin/nvim-treesitter-playground.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/playground/plugin/nvim-treesitter-playground.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/plenary.nvim/plugin/plenary.vim"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/plenary.nvim/plugin/plenary.vim
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/telescope.nvim/plugin/telescope.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/telescope.nvim/plugin/telescope.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/undotree/plugin/undotree.vim"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/undotree/plugin/undotree.vim
+not found in 'packpath': "start/*"
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after/plugin/cmp_nvim_lsp.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after/plugin/cmp_nvim_lsp.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/colors.lua"
+line 0: sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua"
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+continuing in /Users/pr/.config/nvim/after/plugin/colors.lua
+finished sourcing /Users/pr/.config/nvim/after/plugin/colors.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/fugitive.lua"
+finished sourcing /Users/pr/.config/nvim/after/plugin/fugitive.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/lsp.lua"
+finished sourcing /Users/pr/.config/nvim/after/plugin/lsp.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/none-ls.lua"
+Error detected while processing /Users/pr/.config/nvim/after/plugin/none-ls.lua:
+E5113: Error while calling lua chunk: /Users/pr/.config/nvim/after/plugin/none-ls.lua:11: attempt to index field 'ruff' (a nil value)
+stack traceback:
+	/Users/pr/.config/nvim/after/plugin/none-ls.lua:11: in main chunk
+finished sourcing /Users/pr/.config/nvim/after/plugin/none-ls.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/telescope.lua"
+finished sourcing /Users/pr/.config/nvim/after/plugin/telescope.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/treesitter.lua"
+finished sourcing /Users/pr/.config/nvim/after/plugin/treesitter.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/undotree.lua"
+finished sourcing /Users/pr/.config/nvim/after/plugin/undotree.lua
+Reading ShaDa file "/Users/pr/.local/state/nvim/shada/main.shada" info marks oldfiles
+
+vim.tbl_islist is deprecated. Run ":checkhealth vim.deprecated" for more information
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+not found in runtime path: "ftplugin/packer[.]{vim,lua} ftplugin/packer_*.{vim,lua} ftplugin/packer/*.{vim,lua}"
+not found in runtime path: "indent/packer[.]{vim,lua}"
+not found in runtime path: "parser/packer.*"
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+not found in runtime path: "ftplugin/packer[.]{vim,lua} ftplugin/packer_*.{vim,lua} ftplugin/packer/*.{vim,lua}"
+not found in runtime path: "indent/packer[.]{vim,lua}"
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+line 1: sourcing "/Users/pr/.config/nvim/plugin/packer_compiled.lua"
+not found in 'packpath': "pack/*/opt/packer.nvim"
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/plugin/packer_compiled.lua:0"
+line 1: sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua"
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+continuing in nvim_exec2() called at /Users/pr/.config/nvim/plugin/packer_compiled.lua:0
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/plugin/packer_compiled.lua:0
+continuing in /Users/pr/.config/nvim/plugin/packer_compiled.lua
+finished sourcing /Users/pr/.config/nvim/plugin/packer_compiled.lua
+continuing in nvim_exec2()
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+not found in runtime path: "rplugin/perl/*"
+not found in runtime path: "rplugin/node/*"
+not found in runtime path: "rplugin/python3/*"
+not found in runtime path: "rplugin/ruby/*.rb"
+remote/host: generated rplugin manifest: /Users/pr/.local/share/nvim/rplugin.vim
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+
+
+Writing ShaDa file "/Users/pr/.local/state/nvim/shada/main.shada"
+sourcing "nvim_exec2()"
+finished sourcing nvim_exec2()
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/ftplugin.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/ftplugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/indent.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/indent.vim
+could not source "/opt/homebrew/etc/xdg/nvim/sysinit.vim"
+could not source "/etc/xdg/nvim/sysinit.vim"
+could not source "$VIM/sysinit.vim"
+sourcing "/Users/pr/.config/nvim/init.lua"
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+not found in 'packpath': "pack/*/opt/packer.nvim"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/init.lua:0
+continuing in /Users/pr/.config/nvim/init.lua
+                                             hello PR, Welcom in you NeoVim environement
+finished sourcing /Users/pr/.config/nvim/init.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/filetype.lua"
+line 0: sourcing "nvim_exec2() called at /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/filetype.lua:0"
+not found in runtime path: "ftdetect/*.{vim,lua}"
+finished sourcing nvim_exec2() called at /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/filetype.lua:0
+continuing in /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/filetype.lua
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/filetype.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/syntax/syntax.vim"
+line 20: sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/syntax/synload.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/syntax/synload.vim
+continuing in /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/syntax/syntax.vim
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/syntax/syntax.vim
+sourcing "/Users/pr/.config/nvim/plugin/harpoon.lua"
+finished sourcing /Users/pr/.config/nvim/plugin/harpoon.lua
+sourcing "/Users/pr/.config/nvim/plugin/mason.lua"
+finished sourcing /Users/pr/.config/nvim/plugin/mason.lua
+sourcing "/Users/pr/.config/nvim/plugin/packer_compiled.lua"
+not found in 'packpath': "pack/*/opt/packer.nvim"
+line 0: sourcing "nvim_exec2() called at /Users/pr/.config/nvim/plugin/packer_compiled.lua:0"
+line 1: sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua"
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+continuing in nvim_exec2() called at /Users/pr/.config/nvim/plugin/packer_compiled.lua:0
+finished sourcing nvim_exec2() called at /Users/pr/.config/nvim/plugin/packer_compiled.lua:0
+continuing in /Users/pr/.config/nvim/plugin/packer_compiled.lua
+finished sourcing /Users/pr/.config/nvim/plugin/packer_compiled.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/gzip.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/gzip.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/matchit.vim"
+not found in 'packpath': "pack/*/start/matchit"
+line 3: sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+continuing in /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/matchit.vim
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/matchit.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/matchparen.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/matchparen.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/netrwPlugin.vim"
+not found in 'packpath': "pack/*/start/netrw"
+line 7: sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/pack/dist/opt/netrw/plugin/netrwPlugin.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/pack/dist/opt/netrw/plugin/netrwPlugin.vim
+continuing in /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/netrwPlugin.vim
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/netrwPlugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/rplugin.vim"
+line 3: sourcing "/Users/pr/.local/share/nvim/rplugin.vim"
+finished sourcing /Users/pr/.local/share/nvim/rplugin.vim
+continuing in <SNR>26_LoadRemotePlugins
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/rplugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/shada.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/shada.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/spellfile.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/spellfile.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/tarPlugin.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/tarPlugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/tutor.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/tutor.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/zipPlugin.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/zipPlugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/editorconfig.lua"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/editorconfig.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/man.lua"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/man.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/osc52.lua"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/osc52.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/tohtml.lua"
+finished sourcing /opt/homebrew/Cellar/neovim/0.11.1/share/nvim/runtime/plugin/tohtml.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim/plugin/lsp-zero.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim/plugin/lsp-zero.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.vim"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.vim
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/nvim-cmp/plugin/cmp.lua"
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/nvim-cmp/plugin/cmp.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/nvim-cmp/plugin/cmp.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/nvim-cmp/plugin/cmp.lua
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/nvim-cmp/plugin/cmp.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/nvim-lspconfig/plugin/lspconfig.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/nvim-lspconfig/plugin/lspconfig.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/nvim-treesitter/plugin/nvim-treesitter.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/nvim-treesitter/plugin/nvim-treesitter.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/playground/plugin/nvim-treesitter-playground.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/playground/plugin/nvim-treesitter-playground.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/plenary.nvim/plugin/plenary.vim"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/plenary.nvim/plugin/plenary.vim
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/telescope.nvim/plugin/telescope.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/telescope.nvim/plugin/telescope.lua
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/undotree/plugin/undotree.vim"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/undotree/plugin/undotree.vim
+not found in 'packpath': "start/*"
+sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after/plugin/cmp_nvim_lsp.lua"
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after/plugin/cmp_nvim_lsp.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/colors.lua"
+line 0: sourcing "/Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua"
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+line 0: sourcing "nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0"
+finished sourcing nvim_exec2() called at /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua:0
+continuing in /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+finished sourcing /Users/pr/.local/share/nvim/site/pack/packer/start/rose-pine/colors/rose-pine.lua
+continuing in /Users/pr/.config/nvim/after/plugin/colors.lua
+finished sourcing /Users/pr/.config/nvim/after/plugin/colors.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/fugitive.lua"
+finished sourcing /Users/pr/.config/nvim/after/plugin/fugitive.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/lsp.lua"
+finished sourcing /Users/pr/.config/nvim/after/plugin/lsp.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/none-ls.lua"
+Error detected while processing /Users/pr/.config/nvim/after/plugin/none-ls.lua:
+E5113: Error while calling lua chunk: /Users/pr/.config/nvim/after/plugin/none-ls.lua:11: attempt to index field 'ruff' (a nil value)
+stack traceback:
+	/Users/pr/.config/nvim/after/plugin/none-ls.lua:11: in main chunk
+finished sourcing /Users/pr/.config/nvim/after/plugin/none-ls.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/telescope.lua"
+finished sourcing /Users/pr/.config/nvim/after/plugin/telescope.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/treesitter.lua"
+finished sourcing /Users/pr/.config/nvim/after/plugin/treesitter.lua
+sourcing "/Users/pr/.config/nvim/after/plugin/undotree.lua"
+finished sourcing /Users/pr/.config/nvim/after/plugin/undotree.lua
+Reading ShaDa file "/Users/pr/.local/state/nvim/shada/main.shada" info marks oldfiles
+
+Writing ShaDa file "/Users/pr/.local/state/nvim/shada/main.shada"
