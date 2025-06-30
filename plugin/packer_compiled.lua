@@ -91,7 +91,7 @@ _G.packer_plugins = {
     url = "https://github.com/hrsh7th/cmp-nvim-lsp"
   },
   ["copilot.lua"] = {
-    config = { "\27LJ\2\ná\3\0\0\5\0\r\0\0176\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\4\0005\3\3\0=\3\5\0025\3\6\0005\4\a\0=\4\b\3=\3\t\0025\3\n\0=\3\v\0024\3\0\0=\3\f\2B\0\2\1K\0\1\0\26server_opts_overrides\14filetypes\1\0\n\6*\2\bcvs\1\bsvn\1\rhgcommit\1\14gitrebase\1\14gitcommit\1\thelp\1\rmarkdown\1\tyaml\1\6.\1\15suggestion\vkeymap\1\0\6\vaccept\n<C-y>\tnext\n<C-j>\tprev\n<C-k>\16accept_line\1\16accept_word\1\fdismiss\n<C-e>\1\0\5\17auto_trigger\2\vkeymap\0\fenabled\2\rdebounce\3K\27hide_during_completion\2\npanel\1\0\5\npanel\0\15suggestion\0\26server_opts_overrides\0\25copilot_node_command\tnode\14filetypes\0\1\0\2\17auto_refresh\1\fenabled\2\nsetup\fcopilot\frequire\0" },
+    config = { "\27LJ\2\ná\3\0\0\5\0\r\0\0176\0\0\0'\2\1\0B\0\2\0029\0\2\0005\2\4\0005\3\3\0=\3\5\0025\3\6\0005\4\a\0=\4\b\3=\3\t\0025\3\n\0=\3\v\0024\3\0\0=\3\f\2B\0\2\1K\0\1\0\26server_opts_overrides\14filetypes\1\0\n\14gitrebase\1\14gitcommit\1\thelp\1\rmarkdown\1\tyaml\1\6.\1\6*\2\bcvs\1\bsvn\1\rhgcommit\1\15suggestion\vkeymap\1\0\6\16accept_word\1\tprev\n<C-k>\16accept_line\1\tnext\n<C-j>\vaccept\n<C-y>\fdismiss\n<C-e>\1\0\5\17auto_trigger\2\vkeymap\0\fenabled\2\rdebounce\3K\27hide_during_completion\2\npanel\1\0\5\npanel\0\15suggestion\0\26server_opts_overrides\0\25copilot_node_command\tnode\14filetypes\0\1\0\2\17auto_refresh\1\fenabled\2\nsetup\fcopilot\frequire\0" },
     loaded = false,
     needs_bufread = false,
     only_cond = false,
@@ -99,7 +99,7 @@ _G.packer_plugins = {
     url = "https://github.com/zbirenbaum/copilot.lua"
   },
   ["gruvbox.nvim"] = {
-    config = { "\27LJ\2\n´\1\0\0\3\0\v\0\0196\0\0\0009\0\1\0+\1\2\0=\1\2\0006\0\3\0'\2\4\0B\0\2\0029\0\5\0005\2\6\0B\0\2\0016\0\0\0009\0\1\0'\1\b\0=\1\a\0006\0\0\0009\0\t\0'\2\n\0B\0\2\1K\0\1\0\24colorscheme gruvbox\bcmd\tdark\15background\1\0\1\rcontrast\5\nsetup\fgruvbox\frequire\18termguicolors\bopt\bvim\0" },
+    config = { "\27LJ\2\n¸\1\0\0\3\0\v\0\0196\0\0\0009\0\1\0+\1\2\0=\1\2\0006\0\3\0'\2\4\0B\0\2\0029\0\5\0005\2\6\0B\0\2\0016\0\0\0009\0\1\0'\1\b\0=\1\a\0006\0\0\0009\0\t\0'\2\n\0B\0\2\1K\0\1\0\24colorscheme gruvbox\bcmd\tdark\15background\1\0\1\rcontrast\tsoft\nsetup\fgruvbox\frequire\18termguicolors\bopt\bvim\0" },
     loaded = true,
     path = "/Users/pr/.local/share/nvim/site/pack/packer/start/gruvbox.nvim",
     url = "https://github.com/ellisonleao/gruvbox.nvim"
@@ -194,7 +194,7 @@ _G.packer_plugins = {
 time([[Defining packer_plugins]], false)
 -- Config for: gruvbox.nvim
 time([[Config for gruvbox.nvim]], true)
-try_loadstring("\27LJ\2\n´\1\0\0\3\0\v\0\0196\0\0\0009\0\1\0+\1\2\0=\1\2\0006\0\3\0'\2\4\0B\0\2\0029\0\5\0005\2\6\0B\0\2\0016\0\0\0009\0\1\0'\1\b\0=\1\a\0006\0\0\0009\0\t\0'\2\n\0B\0\2\1K\0\1\0\24colorscheme gruvbox\bcmd\tdark\15background\1\0\1\rcontrast\5\nsetup\fgruvbox\frequire\18termguicolors\bopt\bvim\0", "config", "gruvbox.nvim")
+try_loadstring("\27LJ\2\n¸\1\0\0\3\0\v\0\0196\0\0\0009\0\1\0+\1\2\0=\1\2\0006\0\3\0'\2\4\0B\0\2\0029\0\5\0005\2\6\0B\0\2\0016\0\0\0009\0\1\0'\1\b\0=\1\a\0006\0\0\0009\0\t\0'\2\n\0B\0\2\1K\0\1\0\24colorscheme gruvbox\bcmd\tdark\15background\1\0\1\rcontrast\tsoft\nsetup\fgruvbox\frequire\18termguicolors\bopt\bvim\0", "config", "gruvbox.nvim")
 time([[Config for gruvbox.nvim]], false)
 -- Config for: CopilotChat.nvim
 time([[Config for CopilotChat.nvim]], true)

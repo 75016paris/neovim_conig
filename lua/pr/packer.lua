@@ -18,7 +18,7 @@ return require('packer').startup(function(use)
     config = function()
         vim.opt.termguicolors = true
         require("gruvbox").setup({
-            contrast = "",
+            contrast = "soft",
       })
       vim.opt.background = "dark"
       vim.cmd("colorscheme gruvbox")
@@ -84,7 +84,7 @@ return require('packer').startup(function(use)
   -- CopilotChat pour la fonctionnalité de dialogue (AJOUTÉ ICI)
   use {
     "CopilotC-Nvim/CopilotChat.nvim",
-    branch = "canary",
+    branch = "main",
     requires = {
       { "zbirenbaum/copilot.lua" },
       { "nvim-lua/plenary.nvim" },

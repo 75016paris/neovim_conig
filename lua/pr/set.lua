@@ -11,10 +11,10 @@ vim.api.nvim_create_autocmd({"BufReadPost", "BufNewFile"}, {
 })
 
 
-vim.opt.guicursor = ""
+-- vim.opt.guicursor = ""
+vim.opt.guicursor = "n-v-c-sm:block,i-ci-ve:ver25,r-cr-o:hor20"
 
 vim.opt.termguicolors = true
-vim.opt.background = "dark"
 
 vim.cmd('syntax enable')
 vim.cmd('filetype plugin indent on')
@@ -27,7 +27,7 @@ vim.opt.softtabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
 
-vim.opt.hlsearch = false
+vim.opt.hlsearch = true
 vim.opt.incsearch = true
 vim.opt.ignorecase = true
 vim.opt.smartcase = true -- Override ignorecase if search contain cap
@@ -39,7 +39,7 @@ vim.opt.isfname:append("@-@")
 vim.opt.updatetime = 50
 
 --vim.opt.colorcolumn = "80"
-vim.opt.timeoutlen = 300
+vim.opt.timeoutlen = 800
 
 vim.g.mapleader = " "
 

@@ -25,7 +25,7 @@ vim.keymap.set('i', '<C-u>', function()
   end, 100)
 end, { desc = 'Force Copilot suggestion' })
 
-vim.keymap.set('i', '<leader>ca', function()
+vim.keymap.set('i', '<C-y>', function()
   require('copilot.suggestion').accept()
 end, { desc = 'Accept Copilot suggestion' })
 
